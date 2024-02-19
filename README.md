@@ -1,6 +1,4 @@
-# Portfolio
-
-# Data Analyst
+# Portfolio - Data Analyst
 
 #### Technical Skills: Python, R, Tableau, SQL, Excel
 
@@ -19,7 +17,7 @@
 ## Projects
 ### Predictive Modeling of TV Sales
 
-300,000 TV sales transactions from a local electronics supplier were processed using **Excel**. Following this, **exploratory analysis** was conducted using **R-ggplot** to uncover potential patterns for further analysis. Subsequently, **Linear Regression models** and **Data-Driven tree-based models** were deployed to predict TV prices with an accuracy rate of 90%.
+This project showcases TV sales forecasting for wholesalers, using a dataset of 8,323 transactions from Linkers Group S.A.L. in Lebanon. It applies regression models and regression trees to identify factors influencing sales, such as unit price, size, and distribution channels. Our findings reveal that key factors such as TV specifications, unit price, and distribution channels (Casa) significantly influence consumer purchasing decisions, aiding in inventory management. This work highlights the importance of data-driven decision-making in the dynamic electronics market, offering strategic insights for wholesalers.
 
 [Go to project](https://github.com/Romanos-Rizk/MSBA310-Project)
 
