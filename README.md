@@ -31,6 +31,12 @@ Large amounts of data from the United Nations were processed using **Python** to
 
 A local chocolate factory was interviewed to collect both **functional and non-functional requirements** of the business. Following this, the factory's process system was mapped using **UML (Unified Modeling Language)** diagrams. Subsequently, a relational database was designed and mapped through **Enhanced ERD diagrams** that adhere to the database's **normalization rules**. Finally, the database was implemented using **MySQL** and the tables were populated with relevant data, thus enhancing the data analytics capabilities of the store.
 
+### Data Management Project
+
+This project showcases the design and implementation of a local company's database system. an IT solution provider was interviewed to gather comprehensive insights into the business requirements and rules. With a clear understanding of the needs at hand, the next step involved designing a relational database tailored to meet these requirements. The database structure was mapped out using Enhanced Entity-Relationship Diagrams (ERD), ensuring adherence to the normalization rules vital for efficient data organization. Following the design phase, the database was seamlessly implemented utilizing MySQL, a robust relational database management system. Once the database was up and running, its tables were populated with relevant data, significantly enhancing the store's data analytics capabilities.
+
+[Go to project](https://github.com/Romanos-Rizk/ITM302-Project)
+
 ## Certifications and Awards
 
 ### Winner of LAU Case Competition | MSD Case (_July 2023_)
