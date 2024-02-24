@@ -25,7 +25,7 @@ This project showcases TV sales forecasting for wholesalers, using a dataset of 
 
 ### Decoding Happiness in Lebanon (_November 2023_)	
 
-<img src="Assets/MSBA325ProjectPicture.jpeg" alt="Alt Text" width="800">
+<img src="Assets/MSBA325ProjectPicture2.png" alt="Alt Text" width="800">
 
 Large amounts of data from the United Nations were processed using **Python** to identify the factors behind Lebanon’s happiness scores. Subsequently, dynamic figures were created using **Tableau**, resulting in 10 visualizations illustrating economic and social factors affecting Lebanon’s happiness. Finally, a **WordPress blog** post was published to showcase the results and provide recommendations to improve Lebanon’s happiness levels.
 
